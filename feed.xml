@@ -18,5 +18,20 @@
       </description>
     </item>
 
+    <!-- Test announcement 2 -->
+    <item>
+      <title>All About Fish</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Tue, 12 Jun 2018 12:39:00 EDT</pubDate>
+      <description>
+        <ul>
+          <li>One Fish</li>
+          <li>Two Fish</li>
+          <li>Red Fish</li>
+          <li>Blue Fish</li>
+        </ul>
+      </description>
+    </item>
+
   </channel>
 </rss>
