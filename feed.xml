@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
+    <!-- Channel information -->
     <title>Georgetown University WordPress Announcements</title>
+    <link>https://uis.georgetown.edu</link>
     <description>
       List of announcements for GU-managed WordPress sites.
     </description>
+
+    <!-- Test announcement 1 -->
     <item>
-      <guid>test_announcement_1</guid>
+      <title>Test Announcement 1</title>
+      <link>https://uis.georgetown.edu</link>
       <pubDate>Tue, 12 Jun 2018 11:49:00 EDT</pubDate>
       <description>
-        Description for your content, <em>now with html tags!</em>
+        <![CDATA[
+          Description for your content, <em>now with html tags!</em>
+        ]]>
       </description>
     </item>
+
   </channel>
 </rss>
