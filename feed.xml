@@ -14,7 +14,9 @@
       <link>https://uis.georgetown.edu</link>
       <pubDate>Tue, 12 Jun 2018 11:49:00 EDT</pubDate>
       <description>
-        Description for your content, <em>now with html tags!</em>
+        <![CDATA[
+          Description for your content, &lt;em&gt;now with html tags!&lt;/em&gt;
+        ]]>
       </description>
     </item>
 
@@ -24,12 +26,14 @@
       <link>https://uis.georgetown.edu</link>
       <pubDate>Tue, 12 Jun 2018 12:39:00 EDT</pubDate>
       <description>
-        <ul>
-          <li>One Fish</li>
-          <li>Two Fish</li>
-          <li>Red Fish</li>
-          <li>Blue Fish</li>
-        </ul>
+        <![CDATA[
+          <ul>
+            <li>One Fish</li>
+            <li>Two Fish</li>
+            <li>Red Fish</li>
+            <li>Blue Fish</li>
+          </ul>
+        ]]>
       </description>
     </item>
 
