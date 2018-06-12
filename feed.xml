@@ -6,8 +6,6 @@
     <description>This is the description of your Feed.
     Keep it to one or two sentences.</description>
     <item>
-      <title>Test announcement</title>
-      <link></link>
       <guid>test_announcement_1</guid>
       <pubDate>Tue, 12 Jun 2018 11:49:00 EDT</pubDate>
       <description>Description for your content.</description>
